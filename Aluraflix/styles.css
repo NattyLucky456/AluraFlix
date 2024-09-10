@@ -1,0 +1,88 @@
+element.style {
+    font-size: 10px;
+}
+
+
+body {
+border: solid white;
+color: white;
+background: rgb(0, 0, 0);
+margin: 110px;
+font-family: "Bungee Spice", sans-serif;
+}
+header{
+    border: solid 2px rgb(216, 204, 34);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(228, 24, 24);
+}
+.chamada {
+    padding-left: 280px;
+    background: rgb(90, 0, 0);
+    display: flex;
+    justify-content: center;
+}
+
+section
+{
+    margin-left: 20px;
+    display: flex;
+        unicode-bidi: isolate;
+    
+}
+.chamada-texto{
+    margin-right: auto;
+    margin-left: -32%;
+}
+
+h1  {
+    font-size: 25px;
+    }
+    p{
+        font-size: 15px;
+    }
+    /* código omitido */
+
+img {
+    height: 140px;
+}
+/* código omitido */
+
+.categoria-videos
+ {
+    
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+/* código escondido */
+
+/* código escondido */
+
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px
+}
+.categoria h2
+{
+    color: rgb(42, 122, 228);
+}
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid green;
+}
+
+
+section {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/* código omitido */
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* código omitido */
